@@ -12,8 +12,9 @@ Use of physiologic and non-modified cells. Contrary to conventional FRET, this m
 
 
 ## Step-by-step tutorial
-1. download the script [bastien_Fret.ijm](https://github.com/AlexHego/Indirect_FRET/blob/main/bastien_Fret.ijm)
+1. download the script [bastien_Fret.ijm](https://github.com/AlexHego/Indirect_FRET/blob/main/bastien_Fret.ijm) </br>
+Right click on `RaW`  > `Save As...`  (please save as .ijm)
 2. download [imageJ/Fiji](https://imagej.net/software/fiji/downloads)
 3. Update ImageJ/Fiji > `Help` > `Update...`
 4. Restart ImageJ
-5. Drag and drop the script and run it 
+5. Drag and drop the script into imageJ/Fiji and run it 
